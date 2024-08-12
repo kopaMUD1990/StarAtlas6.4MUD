@@ -6,9 +6,9 @@
 // @author       SLY w/ Contributions by SkyLove512, anthonyra, niofox
 // @match        https://*.labs.staratlas.com/
 // @require      https://unpkg.com/@solana/web3.js@latest/lib/index.iife.min.js
-// @require      https://raw.githubusercontent.com/Kopa1990/StarAtlas6.4/main/anchor-browserified.js
-// @require      https://raw.githubusercontent.com/Kopa1990/StarAtlas6.4/main/buffer-browserified.js
-// @require      https://raw.githubusercontent.com/Kopa1990/StarAtlas6.4/main/bs58-browserified.js
+// @require      https://raw.githubusercontent.com/kopaMUD1990/StarAtlas6.4MUD/main/anchor-browserified.js
+// @require      https://raw.githubusercontent.com/kopaMUD1990/StarAtlas6.4MUD/main/buffer-browserified.js
+// @require      https://raw.githubusercontent.com/kopaMUD1990/StarAtlas6.4MUD/main/bs58-browserified.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=staratlas.com
 // @grant        GM_setValue
 // @grant        GM_getValue
